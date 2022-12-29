@@ -1,0 +1,31 @@
+.about-container {
+    padding-top: 65px;
+    background-image: url(../../../public/assets/about/backAbout.jpg);
+    background-size: contain;
+    background-position: center;
+}
+
+.content-container {
+    width: 100%;
+    padding: 25px;
+}
+
+.about {
+    padding-bottom: 25px;
+    text-align: center;
+    font-size: 40px;
+}
+
+.content {
+
+    background-color: rgba(255, 255, 255, 0.75);
+    border-radius: 10px;
+    font-size: 13px;
+    padding: 10px 25px;
+    margin-bottom: 10px;
+}
+
+iframe {
+    border: 3px solid rgba(0, 0, 0, 0.541);
+    border-radius: 10px;
+}

@@ -1,0 +1,50 @@
+.next-product-container {
+
+    background-image: url(../../../public/assets/products/backAbout.jpg);
+    background-size: contain;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.heading2 {
+    text-align: center;
+    font-weight: 800;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    padding: 65px 0 20px;
+    margin-bottom: 10px;
+}
+
+.heading3 {
+    text-align: center;
+    font-weight: 600;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+}
+
+.product {
+    display: flex;
+    flex-direction: column;
+
+    background-color: rgb(255, 255, 255);
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.prod-content {
+    padding: 10px 2px;
+    text-align: justify;
+    font-size: 20px;
+    line-height: 20px;
+    padding-right: 15px;
+}
+
+.prod-price {
+    font-size: 15px;
+    text-align: center;
+}
+
+iframe {
+    border: 5px solid rgb(255, 187, 0);
+}

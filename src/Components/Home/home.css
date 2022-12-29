@@ -1,0 +1,70 @@
+.home {
+    padding-top: 65px;
+    background-image: url('../../../public/assets/home/home.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.home-box {
+    display: flex;
+    flex-direction: column;
+    margin: 25px;
+    padding: 25px;
+    padding-bottom: 0;
+    text-align: center;
+    background-color: #ffd503cb;
+    border-radius: 20px;
+    border: 0.25px solid rgba(0, 0, 0, 0.25);
+}
+
+.home-box .name {
+    font-family: Itim;
+    font-size: 3.75rem;
+}
+
+.home-box .slogan {
+    padding-top: 5px;
+    font-style: italic;
+    font-size: .625rem;
+    font-weight: 400;
+}
+
+.home-box .description {
+    font-size: 2.1875rem;
+    font-weight: 200;
+    text-align: left;
+}
+
+.products {
+    margin: 15px 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+}
+
+.product-container {
+    width: 170px;
+    height: 100px;
+    border-radius: 25px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+
+.product-name {
+    font-size: 20px;
+    font-weight: 700;
+    position: absolute;
+    z-index: 0;
+    color: white;
+    border-radius: 5px;
+    letter-spacing: 1px;
+}
