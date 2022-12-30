@@ -29,7 +29,7 @@
                 "value": "₹300"
             }
         ],
-        "content": "An explosion box is an origami box that pops open and “explodes” as soon as the recipient takes the top off, revealing pictures, messages, and even gifts inside. It's a bigger version of our Explosion Cards project.",
+        "content": "A memory box is a small box that holds special memories belonging to you. It  include photos, some favourite music, or letters. These objects and messages can help remind your children or loved ones of happy times you spent together and offer them some comfort.",
         "pics": [
             "assets/products/memorybox/image1.jpeg",
             "assets/products/memorybox/image2.jpeg"
@@ -71,8 +71,11 @@
                 "value": "₹300"
             }
         ],
-        "content": "Scrapbooking is a method of preserving, presenting and arranging personal and family history in the form of a book, box or card. Typical memorabilia include photographs, printed media, and artwork.",
-        "pics": [],
+        "pics": [
+            "assets/products/frames/image1.jpeg",
+            "assets/products/frames/image2.jpeg",
+            "assets/products/frames/image3.jpeg"
+        ],
         "link": "B38XNM0U_nM"
     },
     {

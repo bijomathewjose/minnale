@@ -3,9 +3,11 @@ import './navbar.css'
 const Navbar = () => {
     const navbar = ["Home", "About", "Products"]
     const contacts = [{ "name": "Instagram", "link": "https://www.instagram.com/_minnale_/", "asset": "instagram.svg" },
+    { "name": "Facebook", "link": "https://www.facebook.com/MINNALEHANDMADES/", "asset": "facebook.svg" },
     { "name": "Youtube", "link": "https://www.youtube.com/channel/UCF9Ts2woU2Kpiw7kTeldbmQ", "asset": "youtube.svg" },
-    { "name": "Whatsapp", "link": "https://wa.me/917306495478", "asset": "call.svg" },
-    { "name": "Location", "link": "https://goo.gl/maps/ZAnoGA2ryRYRQk3w5", "asset": "location.svg" }]
+    { "name": "Whatsapp", "link": "https://wa.me/917902355748", "asset": "call.svg" },
+    { "name": "Location", "link": "https://goo.gl/maps/ZAnoGA2ryRYRQk3w5", "asset": "location.svg" }
+    ]
     return (
         <div className='nav'>
             <div className='navbar justify-between md:pl-8'>

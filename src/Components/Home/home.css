@@ -1,5 +1,4 @@
 .home {
-    padding-top: 65px;
     background-image: url('../../../public/assets/home/design.png');
     background-size: cover;
     display: flex;
@@ -12,13 +11,13 @@
 .home-box {
     display: flex;
     flex-direction: column;
+    width: 50%;
     margin: 25px;
+    margin-top: 0;
     padding: 25px;
+    padding-top: 0;
     padding-bottom: 0;
     text-align: center;
-    background-color: #ffd503cb;
-    border-radius: 20px;
-    border: 0.25px solid rgba(0, 0, 0, 0.25);
 }
 
 .home-box .name {

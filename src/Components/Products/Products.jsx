@@ -9,7 +9,7 @@ const Products = () => {
                 <>
                     <div className='product w-[95%] md:w-[60%]' id={product.id}>
                         <h3 className='heading3'>{product.name}</h3>
-                        <div className='hidden sm:flex'>
+                        <div className='hidden sm:flex justify-center'>
                             <p className='prod-content'>{product.content}</p>
                             {product.link && (<iframe width="300" src={"https://www.youtube.com/embed/" + product.link} title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
                             }</div>
