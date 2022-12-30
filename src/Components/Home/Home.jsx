@@ -5,13 +5,13 @@ const Home = () => {
     return (
         <>
             <div className='home' id='Home'>
-                <div className='home-box m-5'>
-                    <h1 className='name'>MINNALE</h1>
+                <div className='home-box m-5 opacity-0 mt-[65px] md:h-[100vh] h-20'>
+                    {/* <h1 className='name'>MINNALE</h1>
                     <h2 className='slogan'>Let's smile together</h2>
                     <div className='flex items-center'>
                         <h2 className='description' >Handmade<br />Paper<br /> Craft</h2>
                         <div><img src='assets/home/girl.png' alt='Girl' /></div>
-                    </div>
+                    </div> */}
                 </div>
                 <h2>Products</h2>
                 <div className="products">

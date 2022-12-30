@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App text-3xl">
       <header className="App-header"><Navbar /></header>
-      <div className='body-part'>
+      <div className='body-part mt-[65px]'>
         <Home />
         <About />
         <Products />
