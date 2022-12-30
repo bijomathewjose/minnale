@@ -3,7 +3,7 @@ import './product.css'
 import products from './product-data.json'
 const Products = () => {
     return (
-        <div className='next-product-container' id='Products'>
+        <div className='next-product-container py-9' id='Products'>
             <h2 className='heading2'>Products</h2>
             <div className='flex flex-wrap gap-2 justify-center'>{products.map(product => (
                 <>
