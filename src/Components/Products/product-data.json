@@ -1,0 +1,91 @@
+[
+    {
+        "id": "scrap-box",
+        "name": "Scrap Box",
+        "images": "scrap_box.jpg",
+        "price": [
+            {
+                "name": "",
+                "value": "₹300"
+            }
+        ],
+        "content": "Scrapbooking is a method of preserving, presenting and arranging personal and family history in the form of a book, box or card. Typical memorabilia include photographs, printed media, and artwork.",
+        "pics": [
+            "assets/products/scrapbook/image1.webp",
+            "assets/products/scrapbook/image2.jpg",
+            "assets/products/scrapbook/image3.jpg",
+            "assets/products/scrapbook/image4.jpg",
+            "assets/products/scrapbook/image5.jpg"
+        ]
+    },
+    {
+        "id": "memory-box",
+        "name": "Memory Box",
+        "images": "memory_box.jpg",
+        "price": [
+            {
+                "name": "",
+                "value": "₹300"
+            }
+        ],
+        "content": "An explosion box is an origami box that pops open and “explodes” as soon as the recipient takes the top off, revealing pictures, messages, and even gifts inside. It's a bigger version of our Explosion Cards project.",
+        "pics": [
+            "assets/products/memorybox/image1.jpeg",
+            "assets/products/memorybox/image2.jpeg"
+        ]
+    },
+    {
+        "id": "cards",
+        "name": "Cards",
+        "images": "cards.jpg",
+        "price": [
+            {
+                "name": "",
+                "value": "₹300"
+            }
+        ],
+        "content": "A greeting card expresses all the human emotions, joy, thanks, sympathy, humor, love and admiration. It allows us to connect on an emotional level with the people who have touched our lives.",
+        "pics": [
+            "assets/products/cards/image1.jpeg",
+            "assets/products/cards/image2.jpeg",
+            "assets/products/cards/image3.jpeg",
+            "assets/products/cards/image4.jpeg",
+            "assets/products/cards/image5.jpeg",
+            "assets/products/cards/image6.jpeg",
+            "assets/products/cards/image7.jpeg"
+        ]
+    },
+    {
+        "id": "photo-frames",
+        "name": "Photo Frames",
+        "images": "photo_frames.png",
+        "price": [
+            {
+                "name": "Glass",
+                "value": "₹400"
+            },
+            {
+                "name": "Paper",
+                "value": "₹300"
+            }
+        ],
+        "content": "Scrapbooking is a method of preserving, presenting and arranging personal and family history in the form of a book, box or card. Typical memorabilia include photographs, printed media, and artwork.",
+        "pics": []
+    },
+    {
+        "id": "explosion-box",
+        "name": "Explosion Box",
+        "images": "explosion_box.png",
+        "price": [
+            {
+                "name": "",
+                "value": "₹300"
+            }
+        ],
+        "content": "An explosion box is an origami box that pops open and “explodes” as soon as the recipient takes the top off, revealing pictures, messages, and even gifts inside. It's a bigger version of our Explosion Cards project.",
+        "pics": [
+            "assets/products/explosionbox/image1.jpg",
+            "assets/products/explosionbox/image2.jpeg"
+        ]
+    }
+]

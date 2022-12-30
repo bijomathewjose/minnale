@@ -36,13 +36,13 @@
     padding: 10px 2px;
     text-align: justify;
     font-size: 20px;
-    line-height: 20px;
     padding-right: 15px;
 }
 
 .prod-price {
-    font-size: 15px;
+    font-size: 17px;
     text-align: center;
+    font-weight: 600;
 }
 
 iframe {

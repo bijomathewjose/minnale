@@ -1,13 +1,7 @@
 import React from 'react'
 import "./home.css"
+import products from '../Products/product-data.json'
 const Home = () => {
-    const products = [
-        { "id": "scrap-box", "name": "Scrap Box", "images": "scrap_box.jpg" },
-        { "id": "memory-box", "name": "Memory Box", "images": "memory_box.jpg" },
-        { "id": "cards-box", "name": "Cards Box", "images": "cards.jpg" },
-        { "id": "gift-hampers", "name": "Gift Hampers", "images": "gift_hampers.png" },
-        { "id": "photo-frames", "name": "Photo Frames", "images": "photo_frames.png" },
-        { "id": "explosion-box", "name": "Explosion Box", "images": "explosion_box.png" }]
     return (
         <>
             <div className='home' id='HOME'>
