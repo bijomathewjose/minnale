@@ -1,12 +1,13 @@
 .home {
     padding-top: 65px;
-    background-image: url('../../../public/assets/home/home.jpg');
+    background-image: url('../../../public/assets/home/design.png');
     background-size: cover;
     background-position: center;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+
 }
 
 .home-box {
@@ -27,9 +28,9 @@
 }
 
 .home-box .slogan {
-    padding-top: 5px;
+    padding-top: 15px;
     font-style: italic;
-    font-size: .625rem;
+    font-size: 15px;
     font-weight: 400;
 }
 
@@ -55,13 +56,12 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.795);
 }
 
 
 .product-name {
     font-size: 20px;
-    font-weight: 700;
     position: absolute;
     z-index: 0;
     color: white;

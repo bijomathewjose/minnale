@@ -1,7 +1,7 @@
 import React from 'react'
 import './navbar.css'
 const Navbar = () => {
-    const navbar = ["HOME", "ABOUT", "PRODUCTS", "TESTIMONIALS"]
+    const navbar = ["Home", "About", "Products"]
     const contacts = [{ "name": "Instagram", "link": "https://www.instagram.com/_minnale_/", "asset": "instagram.svg" },
     { "name": "Youtube", "link": "https://www.youtube.com/channel/UCF9Ts2woU2Kpiw7kTeldbmQ", "asset": "youtube.svg" },
     { "name": "Whatsapp", "link": "https://wa.me/91", "asset": "call.svg" },
@@ -10,9 +10,9 @@ const Navbar = () => {
     return (
         <div className='nav'>
             <div className='navbar justify-between md:pl-8'>
-                <div className='nav-logo '>
+                <a href='#Home' className='nav-logo '>
                     <img src="assets/navbar/logo.png" alt='' width="100%" height="100%" />
-                </div>
+                </a>
                 <div className='navbar-sub hidden md:flex '>
                     {navbar.map(value =>
                         <a href={"#" + value} className='heading-tag sm'>

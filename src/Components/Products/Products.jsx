@@ -3,7 +3,7 @@ import './product.css'
 import products from './product-data.json'
 const Products = () => {
     return (
-        <div className='next-product-container' id='PRODUCTS'>
+        <div className='next-product-container' id='Products'>
             <h2 className='heading2'>Products</h2>
             <div className='flex flex-wrap gap-2 justify-center'>{products.map(product => (
                 <>
@@ -11,16 +11,16 @@ const Products = () => {
                         <h3 className='heading3'>{product.name}</h3>
                         <div className='hidden sm:flex'>
                             <p className='prod-content'>{product.content}</p>
-                            <iframe width="300" src="https://www.youtube.com/embed/qJZKynM7BQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                        </div>
+                            {product.link && (<iframe width="300" src={"https://www.youtube.com/embed/" + product.link} title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
+                            }</div>
                         <div className='flex flex-col items-center sm:hidden'>
-                            <iframe width="300" src="https://www.youtube.com/embed/qJZKynM7BQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                            <p className='prod-content'>{product.content}</p>
+                            {product.link && (<iframe width="300" src={"https://www.youtube.com/embed/" + product.link} title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
+                            }<p className='prod-content'>{product.content}</p>
                         </div>
                         <p className='prod-price flex justify-around border-y-2 my-2'>{product.price.map(type => (
                             <div className='flex flex-col items-start my-5'>
                                 <span>{type.name}</span>
-                                <span> Base Price : {type.value}</span>
+                                <span> Starting Price : {type.value}</span>
                             </div>
                         ))}</p>
                         <div className='image-container'>

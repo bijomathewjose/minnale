@@ -7,7 +7,7 @@
 
 .content-container {
     width: 100%;
-    padding: 25px;
+    padding: 0 25px;
 }
 
 .about {
@@ -20,7 +20,7 @@
 
     background-color: rgba(255, 255, 255, 0.75);
     border-radius: 10px;
-    font-size: 13px;
+    font-size: 20px;
     padding: 10px 25px;
     margin-bottom: 10px;
 }
