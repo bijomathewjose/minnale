@@ -11,13 +11,8 @@
 .home-box {
     display: flex;
     flex-direction: column;
-    width: 50%;
-    margin: 25px;
-    margin-top: 0;
-    padding: 25px;
-    padding-top: 0;
-    padding-bottom: 0;
-    text-align: center;
+    width: 30%;
+    height: 30%;
 }
 
 .home-box .name {

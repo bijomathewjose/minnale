@@ -11,8 +11,8 @@ const Navbar = () => {
     return (
         <div className='nav'>
             <div className='navbar justify-between md:pl-8'>
-                <a href='#Home' className='nav-logo '>
-                    <img src="assets/navbar/logo.png" alt='' width="100%" height="100%" />
+                <a href='/' className='nav-logo '>
+                    <img className='' src="assets/navbar/logo.png" alt='' width="100%" height="100%" />
                 </a>
                 <div className='navbar-sub hidden md:flex '>
                     {navbar.map(value =>
