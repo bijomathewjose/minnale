@@ -1,7 +1,7 @@
 [
     {
         "id": "scrap-book",
-        "name": "Scrap Book",
+        "name": "Scrap Book🔖",
         "images": "scrap_box.jpg",
         "price": [
             {
@@ -9,7 +9,7 @@
                 "value": "₹300"
             }
         ],
-        "content": "Scrapbooking is a method of preserving, presenting and arranging personal and family history in the form of a book, box or card. Typical memorabilia include photographs, printed media, and artwork.",
+        "content": "Scrap-book is a method of preserving, presenting and arranging personal and family history in the form of a book, box or card. Typical memorabilia include photographs, printed media, and artwork.",
         "pics": [
             "assets/products/scrapbook/image1.webp",
             "assets/products/scrapbook/image2.jpg",
@@ -21,7 +21,7 @@
     },
     {
         "id": "memory-box",
-        "name": "Memory Box",
+        "name": "Memory Box🎁",
         "images": "memory_box.jpg",
         "price": [
             {
@@ -37,7 +37,7 @@
     },
     {
         "id": "cards",
-        "name": "Cards",
+        "name": "🃏Cards🎴",
         "images": "cards.jpg",
         "price": [
             {
@@ -59,7 +59,7 @@
     },
     {
         "id": "photo-frames",
-        "name": "Photo Frames",
+        "name": "📸Photo Frames🎞",
         "images": "photo_frames.png",
         "price": [
             {
@@ -80,7 +80,7 @@
     },
     {
         "id": "explosion-box",
-        "name": "Explosion Box",
+        "name": "🤯Explosion📦Box ",
         "images": "explosion_box.png",
         "price": [
             {

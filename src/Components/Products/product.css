@@ -1,12 +1,13 @@
 .next-product-container {
     background-image: url(../../../public/assets/home/design.png);
-    background-size: cover;
+    background-size: contain;
     background-position: center;
     display: flex;
     flex-direction: column;
 }
 
 .heading2 {
+    font-family: 'itim';
     text-align: center;
     font-weight: 800;
     font-size: 60px;

@@ -8,7 +8,8 @@ const Home = () => {
                 <div className='home-box '>
                     < img className='rounded-[50%]' src='assets/home/main.png' alt='' />
                 </div>
-                <h2>Products</h2>
+                <h1 className='name'>Handmade Paper Craft</h1>
+                <h2 className='prod-head'>Products</h2>
                 <div className="products">
                     {products.map(product => (
                         <a href={'#' + product.id} >

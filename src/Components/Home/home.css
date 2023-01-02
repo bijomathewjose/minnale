@@ -5,7 +5,15 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    font-family: Itim;
+}
 
+.prod-head {
+    padding: 10px;
+    font-family: Itim;
+    font-size: 35px;
+    text-align: center;
+    padding-bottom: 25px;
 }
 
 .home-box {
@@ -15,9 +23,12 @@
     height: 30%;
 }
 
-.home-box .name {
+.name {
     font-family: Itim;
     font-size: 3.75rem;
+    padding: 0 20px;
+    line-height: 100px;
+    text-align: center;
 }
 
 .home-box .slogan {
@@ -34,6 +45,7 @@
 }
 
 .products {
+
     margin: 15px 0;
     display: flex;
     flex-wrap: wrap;
@@ -42,7 +54,7 @@
 }
 
 .product-container {
-    width: 170px;
+    width: 220px;
     height: 100px;
     border-radius: 25px;
     overflow: hidden;

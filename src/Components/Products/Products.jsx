@@ -4,7 +4,7 @@ import products from './product-data.json'
 const Products = () => {
     return (
         <div className='next-product-container py-9' id='Products'>
-            <h2 className='heading2'>Products</h2>
+            <h2 className='heading2'>Products🛒</h2>
             <div className='flex flex-wrap gap-2 justify-center'>{products.map(product => (
                 <>
                     <div className='product w-[95%] md:w-[60%]' id={product.id}>
@@ -20,7 +20,7 @@ const Products = () => {
                         <p className='prod-price flex justify-around border-y-2 my-2'>{product.price.map(type => (
                             <div className='flex flex-col items-start my-5'>
                                 <span>{type.name}</span>
-                                <span> Starting Price : {type.value}</span>
+                                <span> 💰Starting Price : {type.value}</span>
                             </div>
                         ))}</p>
                         <div className='image-container'>

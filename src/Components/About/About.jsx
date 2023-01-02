@@ -1,15 +1,19 @@
 import React from 'react'
 import './about.css'
 const About = () => {
-    const content = " Minnale is business of Handmade Paper Craft products.Handmade paper craft can be a successful business, especially if you are able to offer unique and high-quality products that meet the needs and preferences of your target market. Some potential business ideas in the handmade paper craft industry include: Selling handmade paper products: You can create and sell a wide range of handmade paper products, such as greeting cards, invitations, gift boxes, and scrapbooking supplies.Offering paper craft workshops: You can offer classes or workshops teaching people how to make various handmade paper craft projects.This could be a good option if you have expertise in a particular technique, such as origami or quilling.Providing custom paper craft services: You can offer custom paper craft services, such as creating personalized invitations or party decorations for events.To start a handmade paper craft business, you will need to develop a business plan and identify your target market.You should also consider the costs associated with starting and running a business, including materials and equipment, marketing and advertising expenses, and any necessary licenses or permits.It can also be helpful to establish an online presence, such as a website or social media accounts, to showcase your products and services and reach a wider audience.Networking with other businesses and participating in craft fairs and events can also be effective ways to promote your business and attract customers. "
+    const content = " ✨Minnale is owned and operated by Aiswarya Sunil🤗, a 🤏small business owner👩🏻‍💼 based in Thrissur, Kerala. At Minnale, we offer unique and high quality products that are customized to meet the needs and preferences of every customer.\nAs a business, we have been providing this service for the past 3 years and have completed over ⭐200 orders⭐.To place an order, we require a minimum of 5 days' 🔔notice. However, we also accept urgent orders. All orders are shipped🚢 through India-Post📭 and DTDCd , and customers will receive a tracking code🌏, as well as pictures and videos of the products, once they are dispatched.\nIf you are looking for a special and personalized gift for your loved ones, look no further than Minnale.";
     return (
         <div className='flex flex-col about-container pb-4' id='About'>
-            <div className='about'>About Minnale</div>
+            <div className='about font-[Itim] flex justify-center items-center'><span>About Minnale </span><span className='text-lg'>✨</span></div>
             <div className='flex'>
                 <div className='content-container'>
-                    <div className="content">{content}</div>
+                    <div className="content lg:p-[80px] sm:p-[50px] p-[35px]">
+                        <p className=' text-justify'>{content}</p>
+                        <br></br>
+                        <p className=' text-center'>{"🤗Contact us to start your order today🥰."}</p>
+                    </div>
                     <div className='flex flex-col items-center justify-center'>
-                        Location
+                        <p className='lg:p-[20px] sm:p-[50px] p-[35px] text-4xl '>{"🌎 Location 🌍"}</p>
                         <iframe
                             title='map'
                             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31364.14271201539!2d76.32701247634111!3d10.694483732575659!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba7dd92ca891e9b%3A0xb823f66ee2f0b232!2sChelakkara%2C%20Kerala%20680586!5e0!3m2!1sen!2sin!4v1672323331394!5m2!1sen!2sin"
