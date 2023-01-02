@@ -21,7 +21,7 @@ const About = () => {
                         />
                     </div>
                 </div>
-                <div className='hidden md:flex pr-[25px] '><img className=' rounded-lg object-center object-cover' src='assets/about/garden.jpg' alt='garden girl' width={"100%"} height="100%" /></div>
+                <div className='hidden md:flex pr-[25px] '><img className=' rounded-lg object-center object-cover' src='assets/about/garden.webp' alt='garden girl' width={"100%"} height="100%" /></div>
             </div>
         </div>
     )

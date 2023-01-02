@@ -6,7 +6,7 @@ const Home = () => {
         <>
             <div className='home' id='Home'>
                 <div className='home-box '>
-                    < img className='rounded-[50%]' src='assets/home/main.png' alt='' />
+                    < img className='rounded-[50%]' src='assets/home/main.webp' alt='' />
                 </div>
                 <h1 className='name'>Handmade Paper Craft</h1>
                 <h2 className='prod-head'>Products</h2>

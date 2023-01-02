@@ -2,7 +2,7 @@
     {
         "id": "scrap-book",
         "name": "Scrap Book🔖",
-        "images": "scrap_box.jpg",
+        "images": "scrap_box.webp",
         "price": [
             {
                 "name": "",
@@ -12,17 +12,17 @@
         "content": "Scrap-book is a method of preserving, presenting and arranging personal and family history in the form of a book, box or card. Typical memorabilia include photographs, printed media, and artwork.",
         "pics": [
             "assets/products/scrapbook/image1.webp",
-            "assets/products/scrapbook/image2.jpg",
-            "assets/products/scrapbook/image3.jpg",
-            "assets/products/scrapbook/image4.jpg",
-            "assets/products/scrapbook/image5.jpg"
+            "assets/products/scrapbook/image2.webp",
+            "assets/products/scrapbook/image3.webp",
+            "assets/products/scrapbook/image4.webp",
+            "assets/products/scrapbook/image5.webp"
         ],
         "link": "qJZKynM7BQc"
     },
     {
         "id": "memory-box",
         "name": "Memory Box🎁",
-        "images": "memory_box.jpg",
+        "images": "memory_box.webp",
         "price": [
             {
                 "name": "",
@@ -31,14 +31,14 @@
         ],
         "content": "A memory box is a small box that holds special memories belonging to you. It  include photos, some favourite music, or letters. These objects and messages can help remind your children or loved ones of happy times you spent together and offer them some comfort.",
         "pics": [
-            "assets/products/memorybox/image1.jpeg",
-            "assets/products/memorybox/image2.jpeg"
+            "assets/products/memorybox/image1.webp",
+            "assets/products/memorybox/image2.webp"
         ]
     },
     {
         "id": "cards",
         "name": "🃏Cards🎴",
-        "images": "cards.jpg",
+        "images": "cards.webp",
         "price": [
             {
                 "name": "",
@@ -47,20 +47,20 @@
         ],
         "content": "A greeting card expresses all the human emotions, joy, thanks, sympathy, humor, love and admiration. It allows us to connect on an emotional level with the people who have touched our lives.",
         "pics": [
-            "assets/products/cards/image1.jpeg",
-            "assets/products/cards/image2.jpeg",
-            "assets/products/cards/image3.jpeg",
-            "assets/products/cards/image4.jpeg",
-            "assets/products/cards/image5.jpeg",
-            "assets/products/cards/image6.jpeg",
-            "assets/products/cards/image7.jpeg"
+            "assets/products/cards/image1.webp",
+            "assets/products/cards/image2.webp",
+            "assets/products/cards/image3.webp",
+            "assets/products/cards/image4.webp",
+            "assets/products/cards/image5.webp",
+            "assets/products/cards/image6.webp",
+            "assets/products/cards/image7.webp"
         ],
         "link": "RlYm1QMSNks"
     },
     {
         "id": "photo-frames",
         "name": "📸Photo Frames🎞",
-        "images": "photo_frames.png",
+        "images": "photo_frames.webp",
         "price": [
             {
                 "name": "Glass",
@@ -72,16 +72,16 @@
             }
         ],
         "pics": [
-            "assets/products/frames/image1.jpeg",
-            "assets/products/frames/image2.jpeg",
-            "assets/products/frames/image3.jpeg"
+            "assets/products/frames/image1.webp",
+            "assets/products/frames/image2.webp",
+            "assets/products/frames/image3.webp"
         ],
         "link": "B38XNM0U_nM"
     },
     {
         "id": "explosion-box",
         "name": "🤯Explosion📦Box ",
-        "images": "explosion_box.png",
+        "images": "explosion_box.webp",
         "price": [
             {
                 "name": "",
@@ -90,8 +90,8 @@
         ],
         "content": "An explosion box is an origami box that pops open and “explodes” as soon as the recipient takes the top off, revealing pictures, messages, and even gifts inside. It's a bigger version of our Explosion Cards project.",
         "pics": [
-            "assets/products/explosionbox/image1.jpg",
-            "assets/products/explosionbox/image2.jpeg"
+            "assets/products/explosionbox/image1.webp",
+            "assets/products/explosionbox/image2.webp"
         ]
     }
 ]
