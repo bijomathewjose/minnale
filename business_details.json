@@ -1,0 +1,46 @@
+{
+    "name": "minnale",
+    "country": "india",
+    "state": "kerala",
+    "district": "Thrissur",
+    "contact": "917902355748",
+    "pincode": 680586,
+    "working_hours": {
+        "start": "7am",
+        "end": "11px"
+    },
+    "description": "✨Minnale is owned and operated by Aiswarya Sunil🤗, a 🤏small business owner👩🏻‍💼 based in Thrissur, Kerala. At Minnale, we offer unique and high quality products that are customized to meet the needs and preferences of every customer.\nAs a business, we have been providing this service for the past 3 years and have completed over ⭐200 orders⭐.To place an order, we require a minimum of 5 days' 🔔notice. However, we also accept urgent orders. All orders are shipped🚢 through India-Post📭 and DTDCd , and customers will receive a tracking code🌏, as well as pictures and videos of the products, once they are dispatched.\nIf you are looking for a special and personalized gift for your loved ones, look no further than Minnale.",
+    "product": "handmade Paper Crafts",
+    "product_categories": [
+        {
+            "id": "scrap-book",
+            "name": "Scrap Book🔖",
+            "description": "A scrapbook is a fantastic way to preserve and share your most cherished memories. Whether you're looking to document a special event or just want a place to keep your mementos and keepsakes, a scrapbook is the perfect solution. Not only is scrapbooking a fun and creative hobby, but it's also a great way to relax and de-stress. As you flip through the pages of your scrapbook, you'll be able to relive special moments and experiences from your past. Plus, a scrapbook makes for a unique and thoughtful gift for someone special. Imagine the joy your recipient will feel as they flip through the pages of a book filled with memories and mementos from your relationship.",
+            "price": "₹300"
+        },
+        {
+            "id": "memory-box",
+            "name": "Memory Box🎁",
+            "description": "A memory box is a small box that holds special memories belonging to you. It  include photos, some favourite music, or letters. These objects and messages can help remind your children or loved ones of happy times you spent together and offer them some comfort.",
+            "price": "₹300"
+        },
+        {
+            "id": "cards",
+            "name": "🃏Cards🎴",
+            "description": "A greeting card expresses all the human emotions, joy, thanks, sympathy, humor, love and admiration. It allows us to connect on an emotional level with the people who have touched our lives.",
+            "price": "₹200"
+        },
+        {
+            "id": "photo-frames",
+            "name": "📸Photo Frames🎞",
+            "description": "Photo frames are a must-have for anyone looking to showcase their favorite memories. Not only do they provide a beautiful and elegant way to display your photos, but they also help to protect them from damage. With so many styles, sizes, and materials to choose from, you can find the perfect photo frame to suit your personal taste and decor. Whether you're looking for a classic wood frame, a modern metal frame, or something more eclectic, there's a photo frame out there for you. Photo frames also make for a wonderful gift. Imagine the joy your recipient will feel as they open a gift and see a beautiful frame filled with a special memory. So why wait? Start shopping for photo frames today and find the perfect way to display your most cherished memories.",
+            "price": "₹400"
+        },
+        {
+            "id": "explosion-box",
+            "name": "🤯Explosion📦Box ",
+            "description": "An explosion box is an origami box that pops open and “explodes” as soon as the recipient takes the top off, revealing pictures, messages, and even gifts inside. It's a bigger version of our Explosion Cards project.",
+            "price": "₹300"
+        }
+    ]
+}
