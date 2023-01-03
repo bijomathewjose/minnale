@@ -7,7 +7,7 @@ import ScrollToTop from "./Components/ScrollToTop";
 function App() {
   return (
     <div className="App text-3xl">
-      <header className="App-header sticky top-0"><Navbar /></header>
+      <header className="App-header sticky top-0 z-[1000]"><Navbar /></header>
       <div className='body-part'>
         <Home />
         <About />

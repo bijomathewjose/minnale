@@ -1,8 +1,6 @@
 .about-container {
     padding-top: 65px;
-    background-image: url(../../../public/assets/about/backAbout.webp);
-    background-size: contain;
-    background-position: center;
+
 }
 
 .content-container {
